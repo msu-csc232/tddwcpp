@@ -2,6 +2,17 @@
 
 CSC232 - Data Structures
 
+## Topics
+
+* [Collections](ch01/collections.md)
+* Stacks
+* Queues
+    * Priority Queues
+* Lists
+    * Priority Lists
+* Trees
+
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
