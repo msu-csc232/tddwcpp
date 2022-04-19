@@ -1,6 +1,6 @@
 # Welcome to CSC232!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+CSC232 - Data Structures
 
 ## Commands
 
