@@ -1,4 +1,4 @@
-# C++ Review
+# Language Basics
 
 Let's take a look a simple C++ program.
 
