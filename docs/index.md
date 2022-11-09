@@ -8,12 +8,12 @@ _**Prerequisite**: "C" or better in CSC 131; and MTH 261 or MTH 314 or MTH 315 o
 
 ## Topics
 
-* [Review C++ Fundamentals](lectures/mod01/index.md)
+* Review C++ Fundamentals
 * Collections
-* Stacks
 * Sorting Algorithms
-* Queues and Priority Queues
 * Lists and Sorted Lists
+* Stacks
+* Queues and Priority Queues
 * Trees
 
 ## Approach

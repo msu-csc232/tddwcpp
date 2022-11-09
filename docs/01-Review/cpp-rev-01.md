@@ -1,5 +1,7 @@
 # Language Basics
 
+## A Simple Program
+
 Let's take a look a simple C++ program.
 
 ```c++
