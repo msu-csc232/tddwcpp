@@ -1,8 +1,11 @@
 site_name: CSC232 - Data Structures
+repo_url: https://github.com/msu-csc232/tddwcpp
+repo_name: msu-csc232/tddwcpp
+edit_uri: ""
 nav:
   - Home: index.md
-  - Administrivia:
-      - Syllabus: syllabus.md
+  - Syllabus:
+      - Contact Info: syllabus.md
       - Useful Links: links.md
   - Review:
       - Basics:
@@ -29,6 +32,8 @@ theme:
     - navigation.instant
     - navigation.tracking
     - search.suggest
+  icon:
+    repo: fontawesome/brands/git-alt
 extra:
   generator: false
   social:

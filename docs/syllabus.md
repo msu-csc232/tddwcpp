@@ -1,8 +1,4 @@
-# Syllabus
-
-Data Structures
-
-## Contact Information
+# Contact Information
 
 | Key        | Value                    |
 |------------|--------------------------|
