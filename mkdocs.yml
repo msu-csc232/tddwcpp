@@ -5,8 +5,9 @@ edit_uri: ""
 nav:
   - Home: index.md
   - Syllabus:
-      - Contact Info: syllabus.md
-      - Useful Links: links.md
+      - CSC232:
+        - Contact Info: syllabus.md
+        - Useful Links: links.md
   - Review:
       - Basics:
         - Declarations: 01-Review/cpp-rev-01.md
