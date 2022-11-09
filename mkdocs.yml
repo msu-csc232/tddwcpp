@@ -7,7 +7,7 @@ nav:
   - Syllabus:
       - CSC232:
         - Contact Info: syllabus.md
-        - Useful Links: links.md
+      - Useful Links: links.md
   - Review:
       - Basics:
         - Declarations: 01-Review/cpp-rev-01.md
