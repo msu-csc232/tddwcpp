@@ -26,11 +26,11 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
 #    - navigation.sections
-    - navigation.expand
-    - navigation.indexes
+#    - navigation.expand
+#    - navigation.indexes
     - navigation.top
-    - navigation.instant
-    - navigation.tracking
+#    - navigation.instant
+#    - navigation.tracking
     - search.suggest
   icon:
     repo: fontawesome/brands/git-alt
