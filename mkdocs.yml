@@ -8,19 +8,20 @@ nav:
       - CSC232:
         - Contact Info: syllabus.md
       - Useful Links: links.md
+      - Help: links.md
   - Review:
       - Basics:
-        - Declarations: 01-Review/cpp-rev-01.md
-        - Arrays: 01-Review/cpp-rev-02.md
-      - STL: 01-Review/decl.md
-  - Collections: "02-Collections/index.md"
-  - Sorting Algorithms: "03-Sorting/index.md"
-  - Lists: "04-Lists/index.md"
-  - Sorted Lists: "05-SortedLists/index.md"
-  - Stacks: "06-Stacks/index.md"
-  - Queues: "07-Queues/index.md"
-  - Priority Queues: "08-PriorityQueues/index.md"
-  - Trees: "09-Trees/index.md"
+        - Declarations: Review/cpp-rev-01.md
+        - Arrays: Review/cpp-rev-02.md
+      - STL: Review/decl.md
+  - Collections: "Collections/index.md"
+  - Sorting Algorithms: "Sorting/index.md"
+  - Lists: "Lists/index.md"
+  - Sorted Lists: "SortedLists/index.md"
+  - Stacks: "Stacks/index.md"
+  - Queues: "Queues/index.md"
+  - Priority Queues: "PriorityQueues/index.md"
+  - Trees: "Trees/index.md"
 theme:
   name: material
   features:
